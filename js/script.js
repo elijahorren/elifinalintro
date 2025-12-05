@@ -14,3 +14,6 @@ function updateProgressBar() {
 window.addEventListener('scroll', updateProgressBar);
 
 updateProgressBar();
+
+<button onclick="location.href='./html/ai.html'">Go to Page 2</button>
+
